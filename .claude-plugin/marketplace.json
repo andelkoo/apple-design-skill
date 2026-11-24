@@ -1,0 +1,17 @@
+{
+  "name": "apple-design-skill",
+  "owner": {
+    "name": "andelkoo"
+  },
+  "plugins": [
+    {
+      "name": "apple-design-hig",
+      "description": "Cross-platform UI/UX design reviewer based on Apple's Human Interface Guidelines.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./"
+      ]
+    }
+  ]
+}
